@@ -1,1 +1,46 @@
 @charset "UTF-8";
+
+#container{
+	width:1920;
+	maring:0;
+	
+}
+
+body{
+	background-color: black;
+}
+
+h1{
+	text-align: center;
+	color:#FFFFFF;
+	font-size: 65px
+}
+
+nav{
+color: #FFFFFF;
+border-bottom: medium;
+border-bottom-color: aqua;
+
+}
+
+.navbar{
+  width: 100%;
+  background-color:#000;
+  overflow: auto;
+}
+
+.navbar a {
+  float: left;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+	width: 18%;
+	text-align: center;
+}
+.navbar a:hover {
+	background-color: #4F4F4F;}
+p{
+	text-align: left;
+	color: #FFFFFF;
+}
