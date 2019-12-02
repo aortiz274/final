@@ -13,13 +13,15 @@ body{
 h1{
 	text-align: center;
 	color:#FFFFFF;
-	font-size: 65px
+	font-size: 65px;
+	font-family: 'Open Sans', sans-serif;
 }
 
 nav{
 color: #FFFFFF;
 border-bottom: medium;
 border-bottom-color: aqua;
+font-family: 'Open Sans', sans-serif;
 
 }
 
@@ -43,6 +45,7 @@ border-bottom-color: aqua;
 p{
 	text-align: left;
 	color: #FFFFFF;
+	font-family: 'Open Sans', sans-serif;
 }
 
 #hanna{
@@ -138,13 +141,15 @@ p{
 	
 }
 
-h3{
+h2{
 	color: white;
 	margin-left: 150px;
 	margin-top: 50px;
 	font-size: 30px;
+	font-family: 'Open Sans', sans-serif;
 }
 	
+
 
 
 
