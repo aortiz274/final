@@ -141,16 +141,47 @@ p{
 	
 }
 
-h2{
+#phone{
 	color: white;
 	margin-left: 150px;
 	margin-top: 50px;
 	font-size: 30px;
 	font-family: 'Open Sans', sans-serif;
 }
-	
 
 
+#email{
+	color: white;
+	margin-left: 150px;
+	margin-top: 50px;
+	font-size: 30px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+#address{color: white;
+	margin-left: 150px;
+	margin-top: 50px;
+	font-size: 30px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#photoprice{
+	color: white;
+	margin-left: 150px;
+	margin-top: 50px;
+	font-size: 30px;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+}
+
+#mediaprice{color: white;
+	margin-left: 150px;
+	margin-top: 50px;
+	font-size: 30px;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+}
 
 
 
