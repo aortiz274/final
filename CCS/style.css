@@ -183,7 +183,29 @@ p{
 	text-align: center;
 }
 
+h2{
+	color: white;
+	text-align: center;
+}
 
 
+#welcome{
+	text-align: center;
+}
+.aboutme{
+	width: 300px;
+	height: 300px;
+	align-content: center;
+}
 
+p{
+	text-align: center;
+	color: white;
+}
+
+article{
+	float:right;
+	margin-right: 250px;
+	
+}
 
